@@ -1,3 +1,8 @@
+# 👋 Hey there!  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A500&width=435&lines=Hi%2C+I'm+Nikeel+Ramharakh!;Welcome+to+my+GitHub+Profile!;I+love+building+cool+tech+projects!+🚀" alt="Typing Animation" />
+</p>
+
 # 🚀 About Me  
 🎓 Final-year **Information Engineering** student at **Wits University**  
 🏡 Passionate about **Home Automation**, **Embedded Systems**, and **AI**  
