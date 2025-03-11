@@ -1,17 +1,23 @@
-# About Me  
+# 🚀 About Me  
 🎓 Final-year **Information Engineering** student at **Wits University**  
-🏡 Passionate about **home automation** and IoT projects  
-💡 Interested in **embedded systems, AI, and automation**  
+🏡 Passionate about **Home Automation**, **Embedded Systems**, and **AI**  
+💡 Always learning & building cool tech projects  
 
 ---
 
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikeelr)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeelramharakh@gmail.com)  
+## 🌍 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/nikeelr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nikeelramharakh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,firebase,arduino,raspberrypi" alt="Tech Stack" />
+</p>
+
 ### **🔹 Machine Learning & AI**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
@@ -22,21 +28,29 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)  
 
-### **🔹 Backend & Cloud**  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)  
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikeel03&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Nikeel03&theme=github_dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
+## 🎭 Nerdy Quotes  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Nerdy Quotes" />
+</p>
 
 ---
 
-## Nerdy Quotes  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
+## 🎬 Fun GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="Coding GIF">
+</p>
 
 > _Proudly crafted with ❤️ and a touch of automation_  
