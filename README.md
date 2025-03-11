@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A500&width=435&lines=Hi%2C+I'm+Nikeel+Ramharakh!;Welcome+to+my+GitHub+Profile!;I+love+building+cool+tech+projects!+" alt="Typing Animation" />
 </p>
 
-# 🚀 About Me  
+# About Me  
 🎓 Final-year **Information Engineering** student at **Wits University**  
 🏡 Passionate about **Home Automation**, **Embedded Systems**, and **AI**  
-💡 Always learning & building cool tech projects  
+💡 Always learning
 
 ---
 
-## 🌍 Connect with Me  
+## Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/nikeelr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nikeelramharakh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,firebase,arduino,raspberrypi" alt="Tech Stack" />
 </p>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🎭 Nerdy Quotes  
+## Nerdy Quotes  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Nerdy Quotes" />
 </p>
