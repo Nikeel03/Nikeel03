@@ -3,8 +3,8 @@
 </p>
 
 # About Me  
-🎓 Final-year **Information Engineering** student at **Wits University**  
-🏡 Passionate about **Home Automation**, **Embedded Systems**, and **AI**  
+🎓 Biomedical Engineer and Final-year **Information Engineering (Honours)** student at **Wits University**  
+🏡 Passionate about **Home Automation**, **Embedded Systems** and **AI**  
 💡 Always learning
 
 ---
@@ -27,14 +27,14 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)  
 
-### **🔹 Data Science & Visualization**  
+### **🔹 Data Science & Visualisations**  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)  
 
 ---
 
-## GitHub Stats  
+## Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br/>
