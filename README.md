@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A500&width=435&lines=Hi%2C+I'm+Nikeel+Ramharakh!;Welcome+to+my+GitHub+Profile!;I+love+building+cool+tech+projects!+" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A500&width=435&lines=Hi%2C+I'm+Nikeel!;Welcome+to+my+GitHub!;I+love+making+things+that+help+people!+" alt="Typing Animation" />
 </p>
 
 # About Me  
 🎓 Biomedical Engineer and Final-year **Information Engineering (Honours)** student at **Wits University**  
-🏡 Passionate about **Home Automation**, **Embedded Systems** and **AI**  
+🏡 Passionate about **Home Automation**, **Embedded Systems** and **ML**  
 💡 Always learning
 
 ---
