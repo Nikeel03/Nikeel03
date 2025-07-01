@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A500&width=435&lines=Hello%2C+I'm+Nikeel!;Welcome+to+my+GitHub!;I+love+making+things+that+help+people!+" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7DF9FF&width=500&lines=Hey+there%2C+I'm+Nikeel!;Welcome+to+my+corner+of+GitHub.;I+build+things+that+make+life+easier%2C+smarter%2C+better." alt="Typing Animation" />
 </p>
+
 
 # About Me  
 🎓 Biomedical Engineer and Final-year **Information Engineering (Honours)** student at **Wits University**  
