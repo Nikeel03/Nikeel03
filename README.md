@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7DF9FF&width=500&lines=Hello+there%2C+I'm+Nikeel!;Welcome+to+my+GitHub+page.;I+love+making+things+that+help." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7DF9FF&width=500&lines=Hello+there%2C+I'm+Nikeel!;" alt="Typing Animation" />
 </p>
 
 
-# About Me  
-🎓 Biomedical Engineer and Final-year **Information Engineering (Honours)** student at **Wits University**  
+# A Lil About Me  
+🎓 **Biomedical** and **Information Engineer**  
 🏡 Passionate about **Home Automation**, **Embedded Systems** and **ML**  
-💡 Always learning
+💡 _Always learning_
 
 ---
 
@@ -23,19 +23,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,firebase,arduino,raspberrypi" alt="Tech Stack" />
 </p>
 
-### **🔹 Machine Learning & AI**  
+### **🔹 Machine Deep Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)  
 
-### **🔹 Data Science & Visualisations**  
+### **🔹 Data**  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)  
 
 ---
-
-## Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikeel03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br/>
