@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,firebase,arduino,raspberrypi" alt="Tech Stack" />
 </p>
 
-### **🔹 Machine Deep Learning**  
+### **🔹 Machine and Deep Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)  
